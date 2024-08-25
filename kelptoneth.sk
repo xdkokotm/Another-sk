@@ -1,0 +1,5 @@
+on mine of dried kelp block:
+              cancel drops
+              chance of 10%:
+                     cancel event
+                     drop 1 netherite block
